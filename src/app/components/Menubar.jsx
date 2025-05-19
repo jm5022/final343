@@ -23,7 +23,7 @@ export default function Menubar() {
   </li>
   <li>
     <a 
-      href='https://customer-weld.vercel.app/' 
+      href='https://autophoto.vercel.app' 
       target='_blank'
       className="block px-4 py-2 font-bold italic text-gray-700 hover:bg-blue-50 hover:text-blue-600 rounded transition-colors duration-200"
     >
